@@ -3,6 +3,7 @@ package main;
 public class Sort {
 
 	//I am always developing on my own machine
+	//Made by Riley Comer
 	
 	public static void main(String[] args) {
 		int[] testInt=new int[10];
